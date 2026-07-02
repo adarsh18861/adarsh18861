@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am Adarsh Tiwari, a pre-final year student at the Indian Institute of Information Technology (IIIT). Driven by a passion for enhancing my algorithmic problem-solving skills to tackle real-life technical challenges, I have established a solid foundation in full-stack web engineering using the MERN stack. While I have mastered the essentials of building web applications, I am continuously expanding my horizon by diving into advanced systems, computer graphics, and optimized developer tools. I actively use GitHub to version-control my work, collaborate with peers, and contribute to the open-source community as I grow as a software engineer.
-
+I am Adarsh Tiwari, a pre-final year IT student at IIIT AllAHABAD. I am a full-stack developer skilled in the MERN stack and an active competitive programmer focused on data structures and algorithms using C++. Currently, I am expanding my skills into advanced software systems while looking to collaborate on impactful open-source development projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/adarsh-tiwari-27a013287) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Adarsh Tiwari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:at3250289@gmail.com) 
